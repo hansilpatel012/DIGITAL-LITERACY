@@ -1,13 +1,16 @@
 # DIGITAL-LITERACY
-HANSIL PATEL
-batch 2025 to 2029
-1st year
-hoping to gain knowledge of full stack software development
-🌟 Project Overview
+
+-HANSIL PATEL
+-Batch 2025 to 2029
+-1st year
+
+Hoping to gain knowledge of full stack software development
+
+ Project Overview
 
 This repository serves as my professional Digital Literacy Portfolio, developed as part of my role as a Student Digital Ambassador. The project demonstrates my proficiency in building a professional online presence, utilizing collaborative digital tools, and advocating for cyber safety and communication etiquette.
 
-📁 Module Summaries
+ Module Summaries
 
 Module 1:
 
@@ -19,8 +22,7 @@ Student Digital PortfolioEstablished a foundational professional presence across
 
 Module 3:
 
-Coding & CollaborationDemonstrated technical and collaborative skills by completing a HackerRank coding challenge and building a functional Google Form quiz for peer assessment. Artifact: task-3-platforms/Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSdn5GZ260b5z-xyCqJSDa4SjbZtDNJ_QvFP0WZbbnZPrKsnDw/viewform?usp=dialog
-
+Coding & CollaborationDemonstrated technical and collaborative skills by completing a HackerRank coding challenge and building a functional Google Form quiz for peer assessment. Artifact: task-3-platforms/Quiz Link: https://forms.gle/q5Dz6PQAGQbZ9zAE7
 Module 4:
 
 Professional CommunicationDrafted formal email communications for academic and career-related scenarios, focusing on clarity, respectful tone, and structured subject lines. Artifact: task-4-email-etiquette/
