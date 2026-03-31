@@ -27,6 +27,6 @@ Professional CommunicationDrafted formal email communications for academic and c
 
 Module 5:
 
-Cybercrime AwarenessResearched UPI QR Code Scams and phishing to develop a case study and a comprehensive "Stay Safe Online" prevention guide for students. Artifact: task-5-cybercrime/ Tools & Resources UsedDesign: Canva Version Control: GitHub Professional Networking: LinkedIn Coding Practice: HackerRank Safety Reference: National Cyber Crime Portal (1930)
+This case study examines the digital harassment of a first-year student in Indore, highlighting the rapid escalation of cyberbullying from a single screenshot to widespread social isolation. It details the severe psychological impact on the victim and provides critical reporting resources like 1930 and cybercrime.gov.in. The brief serves as an educational guide on digital ethics, legal consequences under the IT Act, and the importance of bystander intervention.
 
 📄 Project Report The complete documentation of my work, including detailed reflections for each task, can be found in the report/ folder
