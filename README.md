@@ -1,8 +1,8 @@
 # DIGITAL-LITERACY
 
--HANSIL PATEL
--Batch 2025 to 2029
--1st year
+- HANSIL PATEL
+- Batch 2025 to 2029
+- 1st year
 
 Hoping to gain knowledge of full stack software development
 
